@@ -1,0 +1,1 @@
+// Per fer tots els exercicis de S01T08N01 s'ha fet servir l'API de Java Lambdas and Streams de Java 8+.
